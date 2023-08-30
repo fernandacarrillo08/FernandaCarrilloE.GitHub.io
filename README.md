@@ -14,8 +14,8 @@ also find out more about the relationship between some of these indicators. The 
 be used to improve the countries such as getting people out of poverty or working towards gender equality. 
 
 
-# MODELING WITH DATA: ** Tools and techniques for scientific computing **
+# MODELING WITH DATA: Tools and techniques for scientific computing 
 
 The book [Modeling with Data](https://press.princeton.edu/books/hardcover/9780691133140/modeling-with-data) would be very helpful 
-to develop skills in computation. Without some kind of computation, having a lot of data is not as useful, being able to clean, 
-prepare, process and analyze the data is key in order to take advantage of all the information available. 
+in developing skills in computation. Without some kind of computation, having a lot of data is not as useful. Being able to clean, 
+prepare, process, and analyze the data is key in order to take advantage of all the information available. 
